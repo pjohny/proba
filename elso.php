@@ -8,4 +8,4 @@
 
 phpinfo();
 echo 'ez az első próba';
-echo 'masodik sor';
+echo 'otodik sor';
