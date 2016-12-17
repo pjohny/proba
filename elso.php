@@ -9,3 +9,4 @@
 phpinfo();
 echo 'ez az első próba';
 echo 'otodik sor';
+issuezárás
