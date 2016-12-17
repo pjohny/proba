@@ -8,5 +8,4 @@
 
 phpinfo();
 echo 'ez az első próba';
-echo 'otodik sor';
-issuezárás
+echo 'harmadik sor';echo 'otodik sor';
