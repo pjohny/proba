@@ -10,3 +10,4 @@ phpinfo();
 echo 'ez az első próba';
 echo 'harmadik sor';echo 'otodik sor';
 fixes
+miért nem?
